@@ -22,10 +22,7 @@ body:
     attributes:
       label: How to reproduce the bug ?
       description: Please list the steps to reproduce the bug
-      placeholder: 1. Do this
-      2. Do that 
-      3. And then this
-      4. And finally boom !
+      placeholder: Steps
       value: "A bug happened!"
     validations:
       required: true
