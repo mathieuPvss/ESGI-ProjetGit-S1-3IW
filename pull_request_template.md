@@ -31,6 +31,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
+- [ ] I have checked to ensure there aren't other open Pull Requests for the same update/change
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
