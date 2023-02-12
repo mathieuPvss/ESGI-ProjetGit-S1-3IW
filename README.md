@@ -3,21 +3,21 @@ This repository represent our work with my teammate Gauthier LO. In this file yo
 
 ## Content
 - 15 issues
-* 15 branches
-+ 15 Merge request
+- 15 branches
+- 15 Merge request
 - Merge request template
-* Issue templates
-+ Readme file
-+ Contributing file
-* Code of conduct file
-+ Gitigone
-- Respect of the git floww
-* Commits signed by all members and on all commits
+- Issue templates
+- Readme file
+- Contributing file
+- Code of conduct file
+- Gitignore
+- Respect of the git flow
+- Commits signed by all members and on all commits
 
 ## Sitography
 issue : <br/>
 https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository <br/>
-code of conduite file : <br/>
+code of conduct file : <br/>
 https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project <br/>
 contributing file : <br/>
 https://docs.github.com/fr/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors <br/>
