@@ -23,7 +23,10 @@ body:
       label: How to reproduce the bug ?
       description: Please list the steps to reproduce the bug
       placeholder: Steps
-      value: "A bug happened!"
+      value: "1. Do this
+      2. Do that
+      3. And this
+      4. And finally kaboom !"
     validations:
       required: true
   - type: textarea
