@@ -3,6 +3,8 @@
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 Fixes # (issue)
+author : @author
+reviewer : @reviewer
 
 ## Type of change
 
@@ -22,8 +24,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 **Test Configuration**:
 * Firmware version:
-* Hardware:
-* Toolchain:
 * SDK:
 
 # Checklist:
