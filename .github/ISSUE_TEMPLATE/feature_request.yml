@@ -1,7 +1,7 @@
 name: Feature Request
 description: File new feature request
 title: "[Feature Request]: "
-labels: ["Feature", "enhancement"]
+labels: ["feature", "enhancement", "request"]
 assignees:
   - octocat
 body:
