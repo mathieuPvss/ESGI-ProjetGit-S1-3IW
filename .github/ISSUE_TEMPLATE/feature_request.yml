@@ -18,7 +18,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: reproduction-setps
+    id: current-behavior
     attributes:
       label: What
       description: What is the current behavior ?
@@ -28,10 +28,10 @@ body:
     validations:
       required: true
   - type: textarea
-    id: What behavior did you expect ?
+    id: expected-behavior
     attributes:
       label: How
-      description: what did you expect to happen
+      description: what did you expect to happen ?
       placeholder: Tell us what you see!
       value: "I expected it to behave like this ..."
     validations:
