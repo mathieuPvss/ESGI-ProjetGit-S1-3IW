@@ -4,5 +4,3 @@ if(texte.includes(word)){
     console.log('test validé'); 
 }
 else console.log("test non validé");
-
-console.log("Hello world !");
