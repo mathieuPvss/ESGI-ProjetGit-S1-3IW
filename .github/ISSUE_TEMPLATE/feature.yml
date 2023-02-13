@@ -14,7 +14,7 @@ body:
     attributes:
       label: Authors
       description: authors
-      placeholder: @Octocat
+      placeholder: Octocat
     validations:
       required: false
   - type: textarea
