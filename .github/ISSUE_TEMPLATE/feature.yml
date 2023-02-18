@@ -10,13 +10,21 @@ body:
       value: |
         New Feature
   - type: input
+    id: issue
+    attributes:
+      label: Issues
+      description: issue
+      placeholder: Issue
+    validations:
+      required: true
+  - type: input
     id: author
     attributes:
       label: Authors
       description: authors
       placeholder: Octocat
     validations:
-      required: false
+      required: true
   - type: textarea
     id: whats-new
     attributes:
